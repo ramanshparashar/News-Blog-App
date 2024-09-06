@@ -1,0 +1,6 @@
+1) CreatedadynamicnewsblogwebsiteusingHTML,CSSandJavaScriptofferinganintuitiveuserexperienceand
+   responsivedesign.
+2) Integratedwithathird-partynewsAPItofetchanddisplaythelatestnewsarticlesinreal-time,ensuringusershave
+   accesstoup-to-datecontent.
+3) Implementedfeatureslikesearchfunctionality,categoryfiltering,andsocialmediasharingtoenhanceuserengagement
+   andcontentdiscoverability
